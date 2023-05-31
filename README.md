@@ -22,9 +22,9 @@
 
 <!-- most used language -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taedyyyyy&layout=compact)](https://github.com/delay-100/github-readme-stats)
-  
+
 <!-- Github Status -->
-![Taedyyyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=taedyyyyy&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy)
+![Taedyyyyy's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taedyyyyy&theme=default)
 
 
 
