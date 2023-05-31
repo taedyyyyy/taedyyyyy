@@ -20,17 +20,7 @@
 #### 🕓 Version Control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- most used language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taedyyyyy&layout=compact)](https://github.com/delay-100/github-readme-stats)
+
 
 <!-- Github Status -->
 ![Taedyyyyy's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taedyyyyy&theme=default)
-
-
-
-
-
-
-
-
-
